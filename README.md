@@ -12,10 +12,6 @@ Shared media assets for Background Geolocation documentation and marketing mater
 images/              Screenshots, diagrams, and illustrations
 ```
 
-## Usage
-
-These assets are consumed as a git submodule by the [BG Forge](https://github.com/transistorsoft/background-geolocation) monorepo and referenced from documentation via raw GitHub URLs.
-
 ## License
 
 Proprietary. See [LICENSE](LICENSE).
