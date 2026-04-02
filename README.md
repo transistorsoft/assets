@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/transistor-logo-panel-all.svg" alt="Background Geolocation" width="635">
+  <img src="images/logos/transistor-logo-panel-all.svg" alt="Background Geolocation" width="635">
 </p>
 
 # Assets — Transistor Software
