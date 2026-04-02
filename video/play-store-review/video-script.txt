@@ -1,0 +1,5 @@
+This is a demo app for a background location-tracking SDK that I sell to other developers.
+
+The purpose of this demo is purely for other Android developers to evaluate the ability of this SDK to track a device in the background before integrating into their own apps and submitting to the play store for review.
+
+Once a device is registered with an Organization name and username, the user will enable the toggle button on the top toolbar.  Once enabled, the SDK will first request "When in Use" permission followed by a request to enable "All the time" authorization. 
